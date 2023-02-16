@@ -1,4 +1,4 @@
-#Simple game server using websockets and UDP protocol
+# Simple game server using websockets and UDP protocol
 
 
 Client source:
