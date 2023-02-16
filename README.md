@@ -1,6 +1,10 @@
 Simple game server using websockets and UDP protocol
 
 
+Client source:
+    https://github.com/barrosbleo/php-websocket-client.git
+
+
 1 - copy client's folder contents into your root apache or nginx server
     eg.: C\AppServ\www
     eg.: C\www\Http\html
